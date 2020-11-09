@@ -52,6 +52,10 @@ Table of contents
     color: #090a0c;
 }
 
+.mon_titre {
+    color: #fffffff;
+}
+
 .m-btn {
     display: inline-block;
     border: 2px solid transparent;
